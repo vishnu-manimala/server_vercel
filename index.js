@@ -6,7 +6,7 @@ app.use(express.urlencoded({ extended: true }));
 
 
 app.get('/', (req,res)=>{
-    res.send("Hii vercel")
+    res.send("Hii vercel, check")
   })
 
 
